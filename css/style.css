@@ -194,6 +194,7 @@
 	height:200px;
 	border-radius: 5px;
 	overflow: hidden;
+	margin-right: 40px;
 }
 .n-imp .main .main-l img{
 	width:100%;
@@ -207,7 +208,6 @@
 /*-------1111----------*/
 .n-imp .main .main-r{
 	float: left;
-	margin-left: 40px;
 	font-size: 20px;
 	color: #3a3a3a;
 	line-height: 36px;
@@ -215,14 +215,14 @@
 /*-----------------------------download---------------------------*/
 
 .download{
-	width:812px;
+	width:70%;
 	height:56px;
 	background-color: #00848a;
 	margin: 100px auto;
 	border-radius: 5px;
 }
 .download a{
-	width:812px;
+	width:100%;
 	height:56px;
 	display: block;
 	text-align: center;
